@@ -1,0 +1,82 @@
+{
+  "token": "UMA",
+  "historical_samples": [
+    {
+      "date": "2024-06-15",
+      "price_usd": 2.6,
+      "circulating_supply": 80500000,
+      "market_cap_usd": 209300000,
+      "typical_quorum_participation_pct": 0.22
+    },
+    {
+      "date": "2024-07-01",
+      "price_usd": 2.45,
+      "circulating_supply": 81000000,
+      "market_cap_usd": 198450000,
+      "typical_quorum_participation_pct": 0.22
+    },
+    {
+      "date": "2024-07-21",
+      "price_usd": 2.55,
+      "circulating_supply": 81200000,
+      "market_cap_usd": 207060000,
+      "typical_quorum_participation_pct": 0.23
+    },
+    {
+      "date": "2024-08-01",
+      "price_usd": 2.3,
+      "circulating_supply": 81300000,
+      "market_cap_usd": 186990000,
+      "typical_quorum_participation_pct": 0.21
+    },
+    {
+      "date": "2024-08-25",
+      "price_usd": 2.25,
+      "circulating_supply": 81600000,
+      "market_cap_usd": 183600000,
+      "typical_quorum_participation_pct": 0.2
+    },
+    {
+      "date": "2024-09-15",
+      "price_usd": 2.4,
+      "circulating_supply": 81800000,
+      "market_cap_usd": 196320000,
+      "typical_quorum_participation_pct": 0.22
+    },
+    {
+      "date": "2024-10-01",
+      "price_usd": 2.65,
+      "circulating_supply": 82000000,
+      "market_cap_usd": 217300000,
+      "typical_quorum_participation_pct": 0.25
+    },
+    {
+      "date": "2024-10-15",
+      "price_usd": 2.75,
+      "circulating_supply": 82100000,
+      "market_cap_usd": 225775000,
+      "typical_quorum_participation_pct": 0.26
+    },
+    {
+      "date": "2024-10-25",
+      "price_usd": 2.8,
+      "circulating_supply": 82200000,
+      "market_cap_usd": 230160000,
+      "typical_quorum_participation_pct": 0.26
+    },
+    {
+      "date": "2024-11-01",
+      "price_usd": 2.6,
+      "circulating_supply": 82400000,
+      "market_cap_usd": 214240000,
+      "typical_quorum_participation_pct": 0.25
+    },
+    {
+      "date": "2024-11-05",
+      "price_usd": 2.5,
+      "circulating_supply": 82500000,
+      "market_cap_usd": 206250000,
+      "typical_quorum_participation_pct": 0.24
+    }
+  ]
+}
